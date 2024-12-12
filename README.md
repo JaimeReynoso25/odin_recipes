@@ -1,0 +1,1 @@
+This project is from the Odin Project. I am making it to showcase my understanding of basic html elments
